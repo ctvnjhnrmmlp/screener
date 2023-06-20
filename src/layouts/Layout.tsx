@@ -11,6 +11,12 @@ export default function Layout({ children }: LayoutProps) {
 		<>
 			<Head>
 				<title>Screener</title>
+				<link
+					type='image/png'
+					sizes='96x96'
+					rel='icon'
+					href='https://img.icons8.com/fluency/48/documentary.png'
+				></link>
 			</Head>
 			<Navbar />
 			<main>{children}</main>

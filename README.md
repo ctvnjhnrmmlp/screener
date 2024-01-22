@@ -9,3 +9,5 @@ A modern media application designed to provide users with an effortless and enjo
 It boasts a sleek and intuitive user interface, making it easy for users of all ages to navigate the application effortlessly. Clicking on a movie or series reveals a comprehensive page with detailed information, including IMDb ratings.
 
 The media content is displayed in a visually appealing manner, with relevant details such as posters, titles, release dates, and ratings. The application incorporates a powerful search feature that enables users to quickly find their desired movies or series in real-time without delays.
+
+It enhances user engagement by offering personalized recommendations based on viewing history, ensuring a tailored and captivating entertainment experience. With a commitment to continuous improvement, the application is regularly updated to include the latest cinematic releases and features, ensuring users always have access to the most current and exciting content.

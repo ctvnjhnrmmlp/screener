@@ -132,5 +132,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Credits
 
 - Inspired by platforms like **IMDb** and **TMDB**
-- Built with ❤️ by John Rommel Octaviano
+- Built by John Rommel Octaviano
 - Powered by **TypeScript**, **React**, **Next.js**, and **Mantine**
